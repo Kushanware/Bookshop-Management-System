@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1705595142 source:c:\users\kush\desktop\project\bookbycodebolock\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+
