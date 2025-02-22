@@ -1,7 +1,7 @@
 #include<iostream>
-#include<fstream>//files
-#include<stdio.h>//input ouput operations
-#include<stdlib.h>//for mermoy allocation
+#include<fstream>
+#include<stdio.h>
+#include<stdlib.h>
 
 using namespace std;
 
